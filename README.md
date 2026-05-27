@@ -15,8 +15,7 @@
 
 ## 🚀 About Me
 > **"실운영 수준의 아키텍처와 성능 최적화를 지향합니다."**
-- 🔭 **Focus**: 대용량 트래픽 처리, 시스템 안정성 확보 
-- 🌱 **Learning**: MSA, Kafka, Event-Driven Architecture, Spring AI
+- 🌱 **Learning**: MSA, Kafka, Event-Driven Architecture, Spring AI, Spring Boot, Spring Batch ...
 - 🎓 **Education**: 프로그래머스 데브코스, NextStep
 
 
@@ -36,14 +35,21 @@
 
 ## 📂 Project Highlights
 
-### [🥔 Yeongeun Market (연근마켓)](https://github.com/choizz156/beadv1_1_ctrlz_BE_real)
-> **Spring Cloud MSA 기반의 중고거래 & 커뮤니티 플랫폼**
+### [런세권](https://github.com/woowacourse-teams/2025-course-pick)
+> **러닝/산책 코스 추천 안드로이드 앱, 다운로드 1000+, MAU 500+** <br/>
+> [안드로이드 링크](https://play.google.com/store/apps/details?id=io.coursepick.coursepick&hl=ko)
+- **Role**: 기능 개발, 리팩토링
+- **Tech**: Java 21, MongoDB, Docker
+
+
+### [중고 거래 이커머스 프로젝트](https://github.com/choizz156/beadv1_1_ctrlz_BE_real)
+> **Spring Cloud MSA 기반의 중고 거래 학습 프로젝트 (실운영 x)
 - **Role**: 인프라(K8s, CI/CD) 구축, 인증/인가(Gateway, OAuth2), 배치 시스템
 - **Tech**: Java 17, Spring Cloud, Kafka, Elasticsearch, Docker/K8s
 - **Feature**: 예치금/PG 복합 결제, 검색 엔진 최적화, 대용량 정산 배치
 
 ### [💊 Pillivery](https://pillivery-api.pages.dev/)
-> **건강기능식품 정기결제 플랫폼**
+> **건강기능식품 정기결제 플랫폼(실 운영 x)**
 - **Role**: 주문/결제 API, 성능 최적화, 외부 API 장애 격리(Circuit Breaker)
 - **Tech**: Spring Boot, JPA, Redis, Jenkins
 - **Result**: N+1 문제 해결로 조회 성능 95% 개선, 동시성 이슈(Redis Lock) 해결
