@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 > **"실운영 수준의 아키텍처와 성능 최적화를 지향합니다."**
-- 🌱 **Learning**: MSA, Kafka, Event-Driven Architecture, Spring AI, Spring Boot, Spring Batch ...
+- 🌱 **Learning**: Spring AI, Spring Boot, Spring Batch ...
 - 🎓 **Education**: 프로그래머스 데브코스, NextStep
 
 
